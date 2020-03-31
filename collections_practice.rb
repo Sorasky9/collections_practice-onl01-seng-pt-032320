@@ -42,7 +42,7 @@ end
 
 def add_s(letter)
 array = []
-letter.each {|x| x + "s" "#{x}"}
+letter.each {|x| x + "s" }
 
 
 end
