@@ -41,7 +41,7 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(letter)
-letter[0, 2, 3] << "s"
+letter[0] << "s"
 
 
 end
