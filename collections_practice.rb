@@ -41,7 +41,9 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(letter)
-letter.collect {|x| x + "s"}
+letter.collect do {|x| x + "s"}
 
+if .index(1) = 
 
+end
 end
