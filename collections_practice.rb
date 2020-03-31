@@ -41,8 +41,7 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(letter)
-array = []
-letter.each {|x| x + "s"}
+letter.collect {|x| x + "s"}
 
 
 end
