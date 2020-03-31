@@ -41,7 +41,7 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(new)
-new.each_with_index {|value, index| }
+new[0, 2, 3] << "s"
 
 
 
