@@ -48,6 +48,6 @@ if letter.index(1)
 
 else
   x + "s"
-
+end
 end
 end
