@@ -41,7 +41,7 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(new)
-new[0 + 2 + 3] << "s"
+new[0] && new[2] && new[3] << "s"
 
 
 end
