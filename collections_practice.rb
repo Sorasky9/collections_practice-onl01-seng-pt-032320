@@ -43,7 +43,7 @@ end
 def add_s(letter)
 letter.collect do |x| x + "s"
 
-if .index(1)
+if letter.index(1)
   x
 
 else
