@@ -43,6 +43,7 @@ end
 def add_s(new)
 new[0] << "s"
 new[2] << "s"
+new[3] << "s"
 
 
 
