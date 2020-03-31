@@ -41,7 +41,7 @@ add.reduce(0) {|sum, n| sum + n }
 end
 
 def add_s(letter)
-letter.each {|x| << }
+letter.each {|x|  }
 
 
 end
